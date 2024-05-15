@@ -31,6 +31,9 @@
         {
             "url": "https://www.yingm.cc/dm/dm.json",
             "name": "动漫频道"
+        },{
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wlping265/share/main/PizazzGY.txt",
+            "name": "潇洒"
         }
     ]
 }
