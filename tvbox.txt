@@ -5,12 +5,12 @@
             "name": "饭太硬"
         },
         {
-            "url": "http://fan.xxooo.cf/tv",
-            "name": "饭太硬（备用）"
-        },
-        {
             "url": "http://tv.nxog.top/m/",
             "name": "欧歌"
+        },
+        {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wlping265/share/main/PizazzGY.txt",
+            "name": "潇洒"
         },
         {
             "url": "http://xhww.fun:63/小米/DEMO.json",
@@ -31,9 +31,6 @@
         {
             "url": "https://www.yingm.cc/dm/dm.json",
             "name": "动漫频道"
-        },{
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wlping265/share/main/PizazzGY.txt",
-            "name": "潇洒"
         }
     ]
 }
