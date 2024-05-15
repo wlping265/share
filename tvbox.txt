@@ -9,8 +9,8 @@
             "name": "欧歌"
         },
         {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wlping265/share/main/PizazzGY.txt",
-            "name": "潇洒"
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/api.json",
+            "name": "潇洒-云盘"
         },
         {
             "url": "http://xhww.fun:63/小米/DEMO.json",
