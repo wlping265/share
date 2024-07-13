@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "url": "http://www.饭太硬.top/tv",
+            "url": "http://www.饭太硬.com/tv",
             "name": "饭太硬"
         },
         {
@@ -13,11 +13,11 @@
             "name": "潇洒-云盘"
         },
         {
-            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "url": "http://www.mpanso.com/小米/DEMO.json",
             "name": "小米"
         },
         {
-            "url": "http://肥猫.live",
+            "http://肥猫.com",
             "name": "肥猫"
         },
         {
