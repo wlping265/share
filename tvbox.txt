@@ -17,7 +17,7 @@
             "name": "小米"
         },
         {
-            "http://肥猫.com",
+            "url": "http://肥猫.com",
             "name": "肥猫"
         },
         {
