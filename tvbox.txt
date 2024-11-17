@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "url": "http://www.饭太硬.com/tv",
+            "url": "http://fty.888484.xyz/tv",
             "name": "饭太硬"
         },
         {
@@ -21,8 +21,8 @@
             "name": "肥猫"
         },
         {
-            "url": "http://rihou.cc:88/荷城茶秀",
-            "name": "荷城茶秀"
+            "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
+            "name": "短剧频道"
         },
         {
             "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
